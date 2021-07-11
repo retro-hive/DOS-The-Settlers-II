@@ -18,3 +18,24 @@ By hitting F7 in the cheat mode you can view the whole map. The speed can also b
 
 1. Open `SAVE\MISSION2.DAT` with a hex editor
 2. Replace all bytes with hex 01
+
+## Change starting ressources
+
+You can edit the .rtx files in the directory `SETTLERS2\DATA\MISSIONS` as per below:
+
+```
+    !ADD_WARE   0   20
+    !ADD_WARE   1   50
+    !ADD_WARE   2   46
+```
+```
+    !ADD_PEOPLE   0   100
+    !ADD_PEOPLE   1     4
+    !ADD_PEOPLE   2     2
+```
+
+    Notice you can change people 0 (unemployed guys) to 199.
+
+## See whole map
+
+Play Settlers 2 in "Campaign mode", start a game, save it.  Then start a Free Game and DISABLE (off) exploration.  Reload the previously saved game and you'll be able to see the whole map.
