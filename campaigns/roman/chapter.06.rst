@@ -1,15 +1,15 @@
-# CHAPTER VI: DIVIDED COUNTRY
+Chapter VI: Divided Country
+===========================
 
 The shit finally hit  the  fan.  Welcome  to  your  worst  nightmare.  This
 chapter is a real  bitch.  You start off normal,  but  Octavius  brings the
 bad news to you...
 
 
-> Diary of Octavius, Last Day of the Fifth Year
->   
-> Rock  carvings suggest there is an island in the southwest.  It appears
-> there are large gold deposits there.
-
+.. Note:: | Diary of Octavius, Last Day of the Fifth Year
+          |
+          | Rock  carvings suggest there is an island in the southwest.  It appears
+          | there are large gold deposits there.
 
 The idea of the level is that everyone ALREADY IS your enemy; you gotta get
 prepared for the hit. You face two enemies,  red and yellow,  both of which
@@ -44,16 +44,16 @@ after some time he'll  run out of them too... and you will be  left with an
 incapacitated enemy.
 
 
-> The Vikings have a  settlement behind the  large mountain  range on the
-> east  of  our  island.  From the  peaks of  the mountains,  one can see
-> another very large land  mass in the  northeast.  We have not yet found
-> any trace of a gateway  and the prisoners of war  claim they know of no
-> such thing,  but they  are poor liars.  We have captured the small area
-> of land  beyond the mountain  chain from the  Vikings.  We took further
-> prisoners who told us where the gateway is. As we already suspected, it
-> is in the far northeast.  Apart from a small  area in the  south of the
-> land mass, it is entirely in the hands of the Vikings.  We must quickly
-> build a harbor there and acquire fresh supplies.
+.. Note:: | The Vikings have a  settlement behind the  large mountain  range on the
+            east  of  our  island.  From the  peaks of  the mountains,  one can see
+            another very large land  mass in the  northeast.  We have not yet found
+            any trace of a gateway  and the prisoners of war  claim they know of no
+            such thing,  but they  are poor liars.  We have captured the small area
+            of land  beyond the mountain  chain from the  Vikings.  We took further
+            prisoners who told us where the gateway is. As we already suspected, it
+            is in the far northeast.  Apart from a small  area in the  south of the
+            land mass, it is entirely in the hands of the Vikings.  We must quickly
+            build a harbor there and acquire fresh supplies.
 
 
 Time to take  the battle to them.  Now  that  your  army grew thanks to the
@@ -74,7 +74,7 @@ they dried it up.  Attack swift and straight.  Don't stop for anything.  Go
 directly for the gateway.
 
 
-> We have found the gateway and occupied it.
+.. Note:: We have found the gateway and occupied it.
 
 
 Has this chapter been a  real pain in the ass? Did thoughts of quitting the

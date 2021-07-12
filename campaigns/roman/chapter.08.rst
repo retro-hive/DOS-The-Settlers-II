@@ -1,13 +1,14 @@
-# CHAPTER VIII: SEA ROUTES
+Chapter VIII: Sea Routes
+========================
 
 Are you ready to run? You're gonna have to if you want  to  get  over  this
 level!  Fortunately for you,  Octavius tries to help and warn you about the
 inevitable danger...
 
 
-> Scouts have told me of a mighty enemy in the west. We must try and stay
-> here as long as possible. In an emergency we can always escape  to  the
-> east or by sea...
+.. Note:: | Scouts have told me of a mighty enemy in the west. We must try and stay
+            here as long as possible. In an emergency we can always escape  to  the
+            east or by sea...
 
 
 Well,  the emergency will arrive in a few minutes.  The  map is occupied by
@@ -35,8 +36,7 @@ Now  make  your  way to the south-west of the island, where you'll find the
 gateway. Don't mind the red player, for he is just scenery.
 
 
-> We have found the gateway and  occupied it.  When  will  we  reach  our
-> destination?
+.. Note:: We have found the gateway and  occupied it.  When  will  we  reach  our destination?
 
 
 It seems that you passed another level.  Good for  you.  This  was  another

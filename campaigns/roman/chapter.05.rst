@@ -1,15 +1,16 @@
-# CHAPTER V: IN THE WASTELAND
+Chapter V: In The Wasteland
+===========================
 
 It's time for some serious settling.  Welcome  to the fifth chapter  of the
 game.  It's  a  miracle  you made it this far. Not a lot of people have the
 patience for this. You seem to really like the game. Good for you.
 
 
-> We  are  surrounded by nothing but barren wilderness. The edges of this
-> world seem  to  be  either  impenetrable mountains or lava flows. It is
-> impossible to  keep track of time here. A dim, perpetual twilight hangs
-> over  everything  and  there  is  neither  sunlight nor starlight. What
-> wonders and dangers lie hidden here?
+.. Note:: | We  are  surrounded by nothing but barren wilderness. The edges of this
+            world seem  to  be  either  impenetrable mountains or lava flows. It is
+            impossible to  keep track of time here. A dim, perpetual twilight hangs
+            over  everything  and  there  is  neither  sunlight nor starlight. What
+            wonders and dangers lie hidden here?
 
 
 This level is by far the worst you've encountered until now.  You  must  be
@@ -57,22 +58,22 @@ trough piercing  the huge stone deposit to the west. Now's the time to meet
 your opponents. Red first.
 
 
-> We  have  met  humans  of  much  stranger  appearance  than  our Viking
-> shipwright.  They call themselves "Sons of Nippon". They  are short and
-> thin  but  obviously skilled and  tenacious. Their strangest feature is
-> their  skin  color.  It  is  yellow ochre and their eyes are just small
-> slits. They act in a friendly manner although  they  are  unsettling to
-> behold because of thier strange appearance.
+.. Note:: | We  have  met  humans  of  much  stranger  appearance  than  our Viking
+            shipwright.  They call themselves "Sons of Nippon". They  are short and
+            thin  but  obviously skilled and  tenacious. Their strangest feature is
+            their  skin  color.  It  is  yellow ochre and their eyes are just small
+            slits. They act in a friendly manner although  they  are  unsettling to
+            behold because of thier strange appearance.
 
 
 If  you  expanded your territory to the west like I told you, you'll soon
 meet the yellow (and the most dangerous) opponent.
 
 
-> The "Sons of Nippon" in the south have relatives in the north. Their
-> relationship with each  other  appears very friendly. War with one race
-> means war  with  the  other.  We  must  consider  the  prospect  of war
-> carefully.
+.. Note:: | The "Sons of Nippon" in the south have relatives in the north. Their
+            relationship with each  other  appears very friendly. War with one race
+            means war  with  the  other.  We  must  consider  the  prospect  of war
+            carefully.
 
 
 There isn't much more I can say about this chapter.  If  you've learned how
@@ -96,8 +97,8 @@ of your enemy's military buildings. Go straight for the gateway. Which way?
 Directly west. Hopefully, you'll reach it without too much casualties.
 
 
-> We have found the gateway and occupied it. We can go through it
-> whenever we want!
+.. Note:: | We have found the gateway and occupied it. We can go through it
+            whenever we want!
 
 
 Well,  if  you've  made  it  this far, you probably are a good and seasoned

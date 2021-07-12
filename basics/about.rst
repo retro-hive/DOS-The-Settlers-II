@@ -1,4 +1,5 @@
-# About the game
+About the game
+==============
 
 The Settlers II is a strategy/economy game.  It features real-time resource
 management  coupled with a  well-designed economy system that can rival any

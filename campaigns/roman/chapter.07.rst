@@ -1,4 +1,5 @@
-# CHAPTER VII: THE SNAKE
+Chapter VII: The Snake
+======================
 
 This level is really going to be a pain.  Prepare yourself for another gut-
 wrenching ride  through the  Settlers world.  Chapter seven  is desigend to
@@ -10,11 +11,11 @@ fair chance  of winning,  and you seemed  to take  full advantage  of it...
 until now.
 
 
-> Diary of Octavius, The Fourth Day of the 11th Month of the Sixth Year   *
->                                                                         *
-> It appears  that our peninsula  is linked to the rest  of the continent *
-> only by two  narrow valleys.  Tracks suggest there is a  barbarian race *
-> of Vikings in the south. Search for the gateway.
+.. Note:: | Diary of Octavius, The Fourth Day of the 11th Month of the Sixth Year
+          |
+          | It appears  that our peninsula  is linked to the rest  of the continent
+            only by two  narrow valleys.  Tracks suggest there is a  barbarian race
+            of Vikings in the south. Search for the gateway.
 
 
 Build  up  your settlement.  Establish a decent  wood production  and start
@@ -31,10 +32,10 @@ strong fighter with lots of trained  soldiers thanks to  the supply of gold
 he found near his H.Q.
 
 
-> A captured Viking told us that another extremely wealthy tribe lives on
-> the peninsula to the west of us. They have large stocks of Gold. Access
-> to their region to the west of the large bay is heavily fortified. More
-> precise details could not be obtained.
+.. Note:: | A captured Viking told us that another extremely wealthy tribe lives on
+            the peninsula to the west of us. They have large stocks of Gold. Access
+            to their region to the west of the large bay is heavily fortified. More
+            precise details could not be obtained.
 
 
 The  red player is not so close...  you're going to  have to  advance  some
@@ -51,12 +52,12 @@ The only thing that's  missing is the gold.  When you advance enough to the
 west, Octavius will let you in on where the gold is.
 
 
-> Diary of Octavius, 19th Day of the Fourth Month of the Seventh Year
->   
-> The Vikings appear to be extremely strong.  Somehow we must gain access
-> to their fortress.  It is interesting that this tribe also has a  whale
-> graveyard on a small peninsula to the north  of  their  gold  mines.  I
-> wonder if they are afraid of the spirits of the whales as well?
+.. Note:: | Diary of Octavius, 19th Day of the Fourth Month of the Seventh Year
+          |
+          | The Vikings appear to be extremely strong.  Somehow we must gain access
+            to their fortress.  It is interesting that this tribe also has a  whale
+            graveyard on a small peninsula to the north  of  their  gold  mines.  I
+            wonder if they are afraid of the spirits of the whales as well?
 
 
 Yup, you guessed it.  There's your gold.  Steadily advance using  the  over
@@ -76,4 +77,4 @@ without much of a battle.  Advance to the west and a bit south and there it
 is... the gateway.
 
 
-> We have found the gateway and occupied it.
+.. Note:: We have found the gateway and occupied it.

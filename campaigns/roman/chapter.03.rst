@@ -1,19 +1,19 @@
-# CHAPTER III: THE PASS
+Chapter III: The Pass
+=====================
 
 Welcome to the third chapter of Settlers II. In this mission you will learn
 how to deal with dangerous enemies and more.  First off,  Octavius has some
 news...
 
 
-> Diary of Octavius, 17th Day of the Third Month of the 3rd Year
->    
-> We have now created  something of a  routine in  establishing a  viable
-> settlement.  Everything should now work like clockwork.  We came across
-> another  castaway.  He warned us  against hostile  Nubian tribes in the
-> east of the island. The mountains in the east also allegedly have large
-> quantities  of gold.  The man knew  nothing about a  gateway but he was
-> only familiar with a small part of the island.
-
+.. Note:: | Diary of Octavius, 17th Day of the Third Month of the 3rd Year
+          |
+          | We have now created  something of a  routine in  establishing a  viable
+            settlement.  Everything should now work like clockwork.  We came across
+            another  castaway.  He warned us  against hostile  Nubian tribes in the
+            east of the island. The mountains in the east also allegedly have large
+            quantities  of gold.  The man knew  nothing about a  gateway but he was
+            only familiar with a small part of the island.
 
 Don't worry.  The hostile tribe of Nubians is a  long way from you and they
 won't do anything... yet.  As a matter of  fact,  there  are  two  separate

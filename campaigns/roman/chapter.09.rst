@@ -1,14 +1,15 @@
-# CHAPTER IX: THE GREY ISLAND
+Chapter IX: The Grey Island
+===========================
 
 Your journey has brought you to the wasteland again. Nothing around you but
 desolate land and foul smells. Your only hope is reaching the gateway...
 
 
-> Once again we find ourselves in a world that consists of  ash and lava.
-> The atmosphere carries the putrid smell of sulphur.  It  all originates
-> from the nearby volcano which bellows out its vile contents across  the
-> land. My men are insisting we leave soon; I can only hope that the gods
-> will guide our steps.
+.. Note:: | Once again we find ourselves in a world that consists of  ash and lava.
+            The atmosphere carries the putrid smell of sulphur.  It  all originates
+            from the nearby volcano which bellows out its vile contents across  the
+            land. My men are insisting we leave soon; I can only hope that the gods
+            will guide our steps.
 
 This level isn't quite simple,  but it's not that hard.  You have plenty of
 time to build up your settlement.  Again, you face two enemies.  This time,
@@ -28,8 +29,8 @@ Defeat the two adversaries and claim the gateway. It lies in the south-east
 corner of the map.
 
 
-> We have found the gateway and occupied it. Let us remain here no longer
-> than is necessary.
+.. Note:: | We have found the gateway and occupied it. Let us remain here no longer
+            than is necessary.
 
 
 Wow! ...now I have to say: wow! I didn't think you'd make it this far. When

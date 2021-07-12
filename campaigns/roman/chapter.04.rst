@@ -1,4 +1,5 @@
-# CHAPTER IV: ON THE HIGH SEAS
+Chapter IV: On The High Seas
+============================
 
 Congratulations on reaching the fourth chapter.  This is one  of  the  most
 beloved missions thanks to the fact that this  is  when  you'll  start  sea
@@ -6,14 +7,14 @@ travelling.  Expeditions  will  make you reach distant islands  and enlarge
 your territory. Let's begin...
 
 
-> Diary of Octavius, 9th Day of the Ninth Month of the Fourth Year
->    
-> Yesterday we met a stranger of truly frightening appearance. He is huge
-> in size, has  light  blue  eyes  and glowing golden hair. Long ago in a
-> Roman harbor tavern I once heard stories of such people who live in the
-> far north. How did he get here? He is suspicious and refuses to talk to
-> us. We  shall  treat  him  as our guest for a few days (the poor fellow
-> appears to be starving). Perhaps then he will change his attitude.
+.. Note:: | Diary of Octavius, 9th Day of the Ninth Month of the Fourth Year
+          |
+          | Yesterday we met a stranger of truly frightening appearance. He is huge
+            in size, has  light  blue  eyes  and glowing golden hair. Long ago in a
+            Roman harbor tavern I once heard stories of such people who live in the
+            far north. How did he get here? He is suspicious and refuses to talk to
+            us. We  shall  treat  him  as our guest for a few days (the poor fellow
+            appears to be starving). Perhaps then he will change his attitude.
 
 
 Take a look around the map. Your H.Q. is in the upper-left corner.  You now
@@ -22,31 +23,31 @@ forester,  sawmill  and  such and  get a GOOD supply of boards. Expand your
 territory to the east and south.
 
 
-> Diary of Octavius, 16th Day of the Ninth Month of the Fourth Year
->   
-> Well,  what  wonders  a little  generosety can achieve. The blond giant
-> told us that he is a member of a  race that calls itself the "Vikings".
-> He  says that they lived on a large island not far to the east but they
-> were  conquered  by  a  hostile tribe. His name is Erik. What a strange
-> name! If we are to believe him, he is a shipwright  by  trade. My heart
-> beats  faster at the prospect of soon being able to board a ship again,
-> hearing the waves under the keel, the cries of  the  seagulls  and  the
-> wind  in  the  sails...  But  first  we must construct a shipyard and a
-> harbor.
+.. Note:: | Diary of Octavius, 16th Day of the Ninth Month of the Fourth Year
+          |
+          | Well,  what  wonders  a little  generosety can achieve. The blond giant
+          | told us that he is a member of a  race that calls itself the "Vikings".
+          | He  says that they lived on a large island not far to the east but they
+          | were  conquered  by  a  hostile tribe. His name is Erik. What a strange
+          | name! If we are to believe him, he is a shipwright  by  trade. My heart
+          | beats  faster at the prospect of soon being able to board a ship again,
+          | hearing the waves under the keel, the cries of  the  seagulls  and  the
+          | wind  in  the  sails...  But  first  we must construct a shipyard and a
+          | harbor.
 
 
 You must now expand to  the east. If you reached the island to the south, a
 new message will appear...
 
 
-> On a small island in the middle of  a  archipelago,  we  discovered  an
-> enormous whale graveyard, in which  there  were  hundreds  of  gigantic
-> skeletons.  What  an  imposing  sight.  At  first  we  were  unable  to
-> understand  how  these  creatures  got  there.  Erik explained that his
-> people lived off these creatures and whorshipped  them as holy animals.
-> This was why their bones were brought to this sacred  place  after they
-> were caught. Erik is uneasy, he wants to leave because he is afraid  of
-> the spirits of the dead creatures.
+.. Note:: | On a small island in the middle of  a  archipelago,  we  discovered  an
+            enormous whale graveyard, in which  there  were  hundreds  of  gigantic
+            skeletons.  What  an  imposing  sight.  At  first  we  were  unable  to
+            understand  how  these  creatures  got  there.  Erik explained that his
+            people lived off these creatures and whorshipped  them as holy animals.
+          | This was why their bones were brought to this sacred  place  after they
+            were caught. Erik is uneasy, he wants to leave because he is afraid  of
+            the spirits of the dead creatures.
 
 
 If you  have  a  steady food source (Farms, Mills, Bakers, Pig Farms, etc.)
@@ -111,4 +112,4 @@ player.  Normally,  it's  not  necessary to defeat the red player too, just
 capture your way through, all the way to the gatway.
 
 
-> We have reached the gateway and activated it. The way is now clear.
+.. Note:: We have reached the gateway and activated it. The way is now clear.
