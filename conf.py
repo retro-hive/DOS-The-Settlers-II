@@ -7,7 +7,7 @@ import time
 
 html_logo = "images/logo.svg"
 #html_favicon = "images/favicon.ico"
-project = u'THe Settlers II'
+project = u'The Settlers II'
 
 source_suffix = '.rst'
 master_doc = 'index'
