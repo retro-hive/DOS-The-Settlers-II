@@ -8,6 +8,7 @@ The Settlers II
   :name: basics
 
   basics/about
+  basics/shortcuts
   basics/tips
   basics/buildings
   basics/units
