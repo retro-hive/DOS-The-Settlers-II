@@ -7,6 +7,7 @@ Buildings
   :caption: Buildings
   :name: buildings
 
+  buildings/hq
   buildings/huts
   buildings/houses
   buildings/mines
