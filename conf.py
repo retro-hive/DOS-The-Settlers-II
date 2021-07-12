@@ -5,7 +5,7 @@ import time
 import sphinx_rtd_theme
 import time
 
-html_logo = "images/logo.svg"
+html_logo = "Images/The_Settlers_II_Logo.png"
 #html_favicon = "images/favicon.ico"
 project = u'The Settlers II'
 
