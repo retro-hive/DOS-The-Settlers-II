@@ -20,6 +20,8 @@ The Settlers II
   :caption: Advanced
   :name: advanced
 
+  advanced/map.editor
+  advanced/file.formats
   advanced/cheats
 
 .. toctree::
@@ -29,6 +31,8 @@ The Settlers II
   :name: campaigns
 
   campaigns/roman
+  campaigns/world
+  campaigns/unlimited.play
 
 .. toctree::
   :maxdepth: 2
