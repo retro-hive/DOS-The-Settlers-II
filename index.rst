@@ -9,6 +9,7 @@ The Settlers II
 
   basics/about
   basics/shortcuts
+  basics/advanced.settling
   basics/tips
   basics/buildings
   basics/units
